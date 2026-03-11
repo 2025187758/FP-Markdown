@@ -12,7 +12,7 @@
 <li>C</li>
 <li>Javascript</li>
 <li>Python</li>
-<li>[Outra linguagem ou apagar esta linha]</li>
+<li></li>
 </ul>
 <hr>
 <blockquote>
